@@ -1,0 +1,4 @@
+#Wed Aug 10 21:20:33 JST 2022
+base.0=/Users/d_chan/happiness_checker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
