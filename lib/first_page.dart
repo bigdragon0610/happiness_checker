@@ -10,7 +10,7 @@ class MainPage extends StatelessWidget {
         child: ElevatedButton(
           onPressed: (){
           },
-          child: const Text('ハピネスを貯める!!!'),
+          child: const Text('ハピネスを貯める!!'),
         ),
       ),
     );
